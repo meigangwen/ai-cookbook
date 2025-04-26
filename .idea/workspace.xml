@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7398c18e-f86d-48f3-8e82-9895cd520723" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/3-responses/1-introduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-responses/2-text-prompting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-responses/3-conversation-state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-responses/4-function-calling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-responses/5-structured-output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-responses/6-web-search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-responses/7-file-search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-responses/8-reasoning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +43,10 @@
   "keyToString": {
     "Python.1-introduction.executor": "Run",
     "Python.2-text-prompting.executor": "Run",
+    "Python.3-conversation-state.executor": "Run",
+    "Python.4-function-calling.executor": "Run",
+    "Python.5-structured-output.executor": "Run",
+    "Python.6-web-search.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
